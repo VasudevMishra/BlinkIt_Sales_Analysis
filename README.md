@@ -36,7 +36,7 @@ The key objectives of this project are:
 ## 📊 Visualizations
 | Screenshot | Description |
 |------------|-------------|
-| ![Dashboard Overview](Screenshots/dashboard1.png) | Overview of sales trends and KPIs. |
+| ![Dashboard Overview]([Dashboard.png]) | Overview of sales trends and KPIs. |
 | ![Key Insights](Screenshots/insights.png) | Detailed analysis of customer behavior and product performance. |
 
 *(Add actual screenshots to the `Screenshots/` folder.)*
